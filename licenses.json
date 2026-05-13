@@ -1,10 +1,9 @@
-{
-  "licenses": [
-    {
-      "key": "MTgxMDIzNzI3Ng==.SIT+cm3Lo6UlXpRqZpGNV2k3f07r7J9keCwIoUedX3U=
-"
-      "expire": "2027-01-01",
-      "enabled": true
-    }
-  ]
-}
+  {
+    "licenses": [
+      {
+        "key": "MTgxMDIzNzI3Ng==.SIT+cm3Lo6UlXpRqZpGNV2k3f07r7J9keCwIoUedX3U=",
+        "expire": "2027-01-01",
+        "enabled": true
+      }
+    ]
+  }
