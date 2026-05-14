@@ -4,6 +4,13 @@
         "key": "MTgxMDIzNzI3Ng==.SIT+cm3Lo6UlXpRqZpGNV2k3f07r7J9keCwIoUedX3U=",
         "expire": "2027-01-01",
         "enabled": true
+        "hwid": "",
+      }
+      {
+        "key": "MTc4MTM1ODIxMw==.DZR4gEZcXTrLgR67MNY35Ym8AfaHp4Sm29VvLazMyxA=",
+        "expire": "2027-01-01",
+        "enabled": true
+        "hwid": ""
       }
     ]
   }
