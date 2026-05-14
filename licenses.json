@@ -10,7 +10,13 @@
         "key": "MTc4MTM1ODIxMw==.DZR4gEZcXTrLgR67MNY35Ym8AfaHp4Sm29VvLazMyxA=",
         "expire": "2027-01-01",
         "enabled": true
-        "hwid": ""
+        "hwid": "",
+      }
+      {
+      "key": "MTc4MTM1ODUwNg==.0WScjdhvVamV00LCoVv7bra4ssGmoE0/zCI9buHayAg=",
+      "expire": "2027-01-01",
+      "enabled": true
+      "hwid": ""
       }
     ]
   }
