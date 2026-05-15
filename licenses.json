@@ -16,6 +16,12 @@
       "key": "MTc4MTM1ODUwNg==.0WScjdhvVamV00LCoVv7bra4ssGmoE0/zCI9buHayAg=",
       "expire": "2027-01-01",
       "enabled": true
+      "hwid": "",
+      }
+      {
+      "key": "MTc4MTQwOTMyNw==.ASn32ceMeavkhMhKQRZ2OWuhHSWxaZ1TyxFEP1Ymbrs=",
+      "expire": "2026-06-14",
+      "enabled": true
       "hwid": ""
       }
     ]
